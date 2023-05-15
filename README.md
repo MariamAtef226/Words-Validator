@@ -29,4 +29,4 @@ Based on a loaded text file for a dictionary, the C program checks if an entered
 
 <hr>
 
-#### Enjoy it 😉
+#### Enjoy 😉
